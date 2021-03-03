@@ -217,6 +217,3 @@ def usrInput():
     usrInput()
 
 usrInput()
-
-
-#run('n', 0, 3.2, 32.8, 's', 0)
