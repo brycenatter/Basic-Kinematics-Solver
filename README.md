@@ -2,6 +2,7 @@
 Kinamatic equation solver built spacifically for a NumWorks calculator. This script was built using only the "math" module, which is only used for taking a square root. The script is layed out with each of the four kinematic equations defined as a seperate function.
 
 
+
 ### Installation:
 - On a NumWorks calculator:
   - First option: 
@@ -26,3 +27,7 @@ When used in the command line or on a Python-compatible calculator, the usage is
 - This script can only solve for problems with uniform acceleartion
 - When solving for "Time" there will sometimes be two answers due to the quadratic nature of the equation.
 
+
+### Example:
+
+![Example Image](https://raw.githubusercontent.com/natterbr21/Kinamatics-for-NumWorks/main/images/NumWorksexample.gif)
