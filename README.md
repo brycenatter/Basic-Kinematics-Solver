@@ -7,7 +7,7 @@ Kinamatic equation solver built spacifically for a NumWorks calculator but can a
 - On a NumWorks calculator:
   - First option: 
     1. Download the Python File [kin.py](https://raw.githubusercontent.com/natterbr21/Kinamatics-for-NumWorks/38202025e8a0321457aa8dcbafb4ebab5dff519e/kin.py)
-    2. Copy and paste into Numworks script editor
+    2. Copy and paste into NumWorks script editor
     3. Install using [NumWorks Workshop](https://workshop.numworks.com/)
   - Second option:
     1. Use the [direct link](https://workshop.numworks.com/python/natterbr21/kin) to install the script
