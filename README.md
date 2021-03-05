@@ -1,5 +1,5 @@
 # Basic-Kinematics-Solver
-Kinamatic equation solver built spacifically for a NumWorks calculator but can also be used in the command line or any Python-compatible calculator. This script was built using only the "math" module, which is only used for taking a square root. The script is layed out with each of the four kinematic equations defined as a seperate function.
+Kinamatic equation solver built spacifically for a NumWorks calculator but can also be used in the command line or any Python-compatible calculator. This script was built using only the "math" module, which is only used for taking a square root. The script is layed out with each of the four common kinematic equations defined as a seperate function.
 
 
 
