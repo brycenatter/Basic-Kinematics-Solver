@@ -22,10 +22,10 @@ When used in the command line or on a Python-compatible calculator, the usage is
 
 - For information that is not given in the problem use a **"n"**
 - Place a **"s"** in for the varible you want to solve for
-- Only one varible can be a **"n"** and only one varbile can be a **"s"**
+- Only one variable can be a **"n"** and only one variable can be a **"s"**
   - Exception: If position data is not given, you must put a **"n"** in both "Position (Final)" and "Position (Inital)".
 - This script can only solve for problems with uniform acceleartion
-- When solving for "Time" there will sometimes be two answers due to the quadratic nature of the equation.
+- When solving for "Time", there will sometimes be two answers due to the quadratic nature of the equation. Just remember that negative time doesn't really exist.
 
 
 ### Example:
